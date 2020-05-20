@@ -1,5 +1,5 @@
 # CvImshowThread
-CvImShowThread is a header only class that manages the opencv cv::imshow from the seperate thread.\
+**CvImShowThread** is a header only class that manages the opencv cv::imshow from the seperate thread.\
 This will allow displaying opencv imshow from multiple threads.
 
 ## What it does
